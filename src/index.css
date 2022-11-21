@@ -418,7 +418,7 @@ p {
 
 a {
     font-size: 1.4rem;
-    color: white;
+    color: var(--dark-blue);
     text-decoration: none;
     transition: all 0.2s;
 }
